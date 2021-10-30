@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "pixelmon_workshops",
+    "name": "Pixelmon Workshops",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "SlowBro"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
