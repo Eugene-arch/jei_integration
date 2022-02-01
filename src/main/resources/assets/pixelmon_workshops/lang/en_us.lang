@@ -1,3 +1,8 @@
 jei.category.oneblock.blocks.name=Blocks to generate on island core
 jei.category.oneblock.chests.name=Chests to generate on island core
-jei.category.oneblock.entities.name=Chests to generate on core generated block break
+jei.category.oneblock.entities.name=Entities to spawn on core generated block break
+jei.category.oneblock.loot.tier1.name=Level 1 generator drops
+jei.category.oneblock.loot.tier2.name=Level 2 generator drops
+jei.category.oneblock.loot.tier3.name=Level 3 generator drops
+jei.category.oneblock.loot.tier4.name=Level 4 generator drops
+jei.category.oneblock.loot.tier5.name=Level 5 generator drops

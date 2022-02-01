@@ -1,3 +1,8 @@
 jei.category.oneblock.blocks.name=Блоки, генерируемые в ядре острова
 jei.category.oneblock.chests.name=Сундуки, генерируемые в ядре острова
 jei.category.oneblock.entities.name=Сущности, появляющиеся при ломании блоков в ядре острова
+jei.category.oneblock.loot.tier1.name=Генерируемые предметы 1 уровня
+jei.category.oneblock.loot.tier2.name=Генерируемые предметы 2 уровня
+jei.category.oneblock.loot.tier3.name=Генерируемые предметы 3 уровня
+jei.category.oneblock.loot.tier4.name=Генерируемые предметы 4 уровня
+jei.category.oneblock.loot.tier5.name=Генерируемые предметы 5 уровня
