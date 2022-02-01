@@ -23,7 +23,7 @@ public class WrapperCategoryGeneratorLoot implements IRecipeWrapper {
     @Override
     public void drawInfo(Minecraft minecraft, int recipeWidth, int recipeHeight, int mouseX, int mouseY) {
         int level = recipe.getLevel();
-        minecraft.fontRenderer.drawString("" + level, 5, 10, 0xffffffff, true);
+        minecraft.fontRenderer.drawString("" + level, 2, 4, 0xffffffff, true);
     }
 
     public RecipeOneblockGenerator getRecipe() {
